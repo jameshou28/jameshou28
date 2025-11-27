@@ -2,19 +2,21 @@
 
 <p align="center">
   <a href="https://www.google.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a>
-  <a href = "https://www.google.com"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-  <a href = "https://www.google.com"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <a href = "www.linkedin.com/in/jameshou28"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href = "https://www.instagram.com/james_hou8"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </p>
 
 ---
-<p>I'm a high school student interested in computer science and robotics. </p>
-<!--
-<ul>
-  <li>SOMETHING</li>
-  <li>SOMETHING</li>
-</ul>
--->
+<p>I'm a high school student passionate in computer science and robotics.</p>
 
+<p>&emsp;🔭 I’m currently working on:</p>
+<ul>
+  <li>&emsp;<a href="https://www.robotevents.com/teams/V5RC/4610Z">VEX Robotics</a></li>
+  <li>&emsp;<a href="https://www.wearqpin.com">QPin</a></li>
+  
+</ul>
+
+<p>&emsp;📫 How to reach me: <a href= "mailto:james.william.hou@gmail.com">james.william.hou@gmail.com</p>
 
 ---
 <h3 align="center"> Tech Stack:</h3>
