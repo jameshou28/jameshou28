@@ -7,7 +7,7 @@
 </p>
 
 ---
-<p>I'm a high school student passionate in computer science and robotics.</p>
+<p>I'm a high school student passionate about computer science and robotics.</p>
 
 <p>&emsp;🔭 I’m currently working on:</p>
 <ul>
