@@ -18,9 +18,6 @@
 <ul>
   <li>&emsp;<a href="https://www.robotevents.com/teams/V5RC/4610Z">VEX Robotics</a></li>
   <li>&emsp;<a href="https://www.wearqpin.com">QPin</a>
-    <ul>
-      <li>&emsp;&emsp;<a href="https://apps.apple.com/us/app/qpin-connect/id6749499794">iOS App (QPin Connect)</a></li>
-    </ul>
   </li>
 </ul>
 
