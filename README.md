@@ -11,7 +11,8 @@
 <p>🔭 I'm currently working on:</p>
 
 <ul>
-  <li><a href="https://www.robotevents.com/teams/V5RC/4610Z">VEX Robotics</a></li>
+  <li><a href="https://www.events.vex.com/teams/V5RC/4610Z">VEX Robotics</a></li>
+  <li><a href="https://www.techshareproject.org">TechShare</a></li>
   <li><a href="https://www.wearqpin.com">QPin</a></li>
 </ul>
 
