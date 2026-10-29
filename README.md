@@ -11,9 +11,10 @@
 <p>🔭 I'm currently working on:</p>
 
 <ul>
+  <li><a href="https://www.getthera.com/">Thera (YC S22)</a></li>
   <li><a href="https://events.vex.com/teams/V5RC/4610Z">VEX Robotics: Team 4610Z</a></li>
   <li><a href="https://www.techshareproject.org">TechShare</a></li>
-  <li><a href="https://www.wearqpin.com">QPin</a></li>
+  <!-- <li><a href="https://www.wearqpin.com">QPin</a></li> -->
 </ul>
 
 <p>📫 How to reach me: <a href="mailto:james.william.hou@gmail.com">james.william.hou@gmail.com</a></p>
